@@ -3,7 +3,7 @@ import { ComponentProps } from 'react'
 import { AvatarContainer, AvatarImage, AvatarFallback } from './styles'
 
 // eslint-disable-next-line prettier/prettier
-export interface AvatarProps extends ComponentProps<typeof AvatarImage> { }
+export interface AvatarProps extends ComponentProps<typeof AvatarImage> {}
 
 export function Avatar(props: AvatarProps) {
   return (
@@ -16,3 +16,5 @@ export function Avatar(props: AvatarProps) {
     </AvatarContainer>
   )
 }
+
+Avatar.displayName = 'Avatar'
