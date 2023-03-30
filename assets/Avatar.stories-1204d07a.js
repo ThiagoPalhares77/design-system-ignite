@@ -1,0 +1,2 @@
+import{A as t}from"./index-e6e01276.js";import"./index-0f9bde7c.js";import"./iframe-f19b1f8f.js";import"./index-d7436916.js";import"./jsx-runtime-57781139.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/thiagopalhares77.png",alt:"Thiago Palhares"},argTypes:{src:{control:{type:"text"}}}},m={},e={args:{src:void 0}},c=["Primary","CustomTag"];export{e as CustomTag,m as Primary,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-1204d07a.js.map
