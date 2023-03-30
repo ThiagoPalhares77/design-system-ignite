@@ -1,6 +1,6 @@
 {
   "name": "@thiagopalhares-ignite-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "./dis/index.js",
   "module": "./dist/index.mjs",
