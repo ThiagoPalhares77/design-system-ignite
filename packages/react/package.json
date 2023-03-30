@@ -1,6 +1,6 @@
 {
   "name": "@thiagopalhares-ignite-ui/react",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "main": "./dis/index.js",
   "module": "./dist/index.mjs",
